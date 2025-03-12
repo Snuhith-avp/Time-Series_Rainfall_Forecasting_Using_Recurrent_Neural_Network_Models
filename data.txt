@@ -1,0 +1,44 @@
+Date and Time: 2023-11-23 00:00:00
+{
+    'dt': 1700697600,
+    'main': {
+        'temp': 287.17,
+        'feels_like': 285.2,
+        'temp_min': 287.17,
+        'temp_max': 287.17,
+        'pressure': 1020,
+        'sea_level': 1020,
+        'grnd_level': 1003,
+        'humidity': 22,
+        'temp_kf': 0
+    },
+    'weather': [
+        {
+            'id': 802,
+            'main': 'Clouds',
+            'description': 'scattered clouds',
+            'icon': '03n'
+        }
+    ],
+    'clouds': {
+        'all': 36
+    },
+    'wind': {
+        'speed': 2.22,
+        'deg': 29,
+        'gust': 3.05
+    },
+    'visibility': 10000,
+    'pop': 0,
+    'sys': {
+        'pod': 'n'
+    },
+    'dt_txt': '2023-11-23 00:00:00'
+}
+
+TempHighF', 'TempAvgF', 'TempLowF', 'DewPointHighF', 'DewPointAvgF',
+       'DewPointLowF', 'HumidityHighPercent', 'HumidityAvgPercent',
+       'HumidityLowPercent', 'SeaLevelPressureHighInches',
+       'SeaLevelPressureAvgInches', 'SeaLevelPressureLowInches',
+       'VisibilityHighMiles', 'VisibilityAvgMiles', 'VisibilityLowMiles',
+       'WindHighMPH', 'WindAvgMPH', 'WindGustMPH', 'Events
